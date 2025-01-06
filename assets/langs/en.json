@@ -1,0 +1,29 @@
+{
+  "settings": "Settings",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "adat_wtkaled": "Customs and Traditions",
+  "adat_1_title": "1- Arabic Hospitality",
+  "adat_1_description": "Hospitality is a cornerstone of Saudi culture. Guests are welcomed with Arabic coffee and dates, and serving coffee in a special way is considered a sign of generosity.",
+  "adat_2_title": "2- Saudi Ardah",
+  "adat_2_description": "A folk dance performed with swords and drums, and considered a symbol of national unity. Performed on national occasions and major celebrations.",
+  "adat_3_title": "3- Harvest Seasons",
+  "adat_3_description": "In agricultural areas such as Al-Ahsa and Taif, special festivals are held to celebrate the harvest of dates or Taif roses.",
+  "adat_4_title": "4- Saudi Weddings",
+  "adat_4_description": "Wedding traditions include celebrating folk arts, such as the Samri in Najd, or the Mizmar in Hejaz, with the bride adorned with traditional jewellery and luxurious costumes.",
+  "adat_5_title": "5- Hajj and Umrah",
+  "adat_5_description": "Receiving pilgrims and Umrah performers is considered part of the established customs, where the locals serve them and provide them with comfort.",
+
+  "explore": "Explore",
+  "saudi_arabia": "Saudi Arabia",
+  "search_city": "Search for a city",
+  "cities": "Cities",
+  "traditions": "Traditions and Customs",
+
+  "favorites": "Favorites",
+  "noFavorites": "No favorite cities yet"
+
+}
+
+
