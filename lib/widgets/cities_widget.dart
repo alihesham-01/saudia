@@ -66,15 +66,13 @@ class CitiesWidget extends StatelessWidget {
             const Spacer(flex: 4),
             Padding(
               padding: EdgeInsets.all(height * 0.015),
-              child: Flexible(
-                child: Text(
-                  cities.name,
-                  style: GoogleFonts.cairo(
-                    textStyle: TextStyle(
-                      color: Colors.white,
-                      fontSize: height * 0.02,
-                      fontWeight: FontWeight.bold,
-                    ),
+              child: Text(
+                cities.name,
+                style: GoogleFonts.cairo(
+                  textStyle: TextStyle(
+                    color: Colors.white,
+                    fontSize: height * 0.02,
+                    fontWeight: FontWeight.bold,
                   ),
                 ),
               ),

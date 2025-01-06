@@ -70,6 +70,7 @@ class contentstate extends State<Content> with TickerProviderStateMixin {
           child: Column(
             children: [
               SizedBox(height: height * 0.015),
+
               // Image section
               Padding(
                 padding: EdgeInsets.symmetric(

@@ -11,7 +11,7 @@ import 'details/Details_ola.dart';
 import 'details/Details_ynb.dart';
 import 'details/details_taef.dart';
 import 'models/cities_class.dart';
-import 'categories/3adat_wtkaled_categ.dart';
+import 'categories/adat_wtkaled_categ.dart';
 import 'favorite_page.dart';
 import 'settings_page.dart';
 import 'widgets/cities_widget.dart';
